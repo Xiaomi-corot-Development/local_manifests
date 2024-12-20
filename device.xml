@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Xiaomi-corot-Development" fetch="https://github.com/Xiaomi-corot-Development" revision="lineage-20" />
-  <remote name="LineageOS" fetch="https://github.com/LineageOS" revision="lineage-20" />
+  <remote name="Xiaomi-corot-Development" fetch="https://github.com/Xiaomi-corot-Development" revision="lineage-21" />
+  <remote name="LineageOS" fetch="https://github.com/LineageOS" revision="lineage-21" />
   <project path="device/xiaomi/corot" name="android_device_xiaomi_corot" remote="Xiaomi-corot-Development" />
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" />
   <project path="vendor/xiaomi/corot" name="android_vendor_xiaomi_corot" remote="Xiaomi-corot-Development" />
